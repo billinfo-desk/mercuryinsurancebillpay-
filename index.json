@@ -1,0 +1,30 @@
+{
+  "site": "https://billinfo-desk.github.io",
+  "pages": [
+    {
+      "title": "Mercury Insurance Bill Pay",
+      "url": "/mercury-insurance-bill-pay/",
+      "category": "insurance",
+      "keywords": [
+        "mercury insurance bill pay",
+        "pay mercury insurance bill online",
+        "guest payment mercury insurance",
+        "mercury quick pay",
+        "mercury insurance bill pay phone number"
+      ],
+      "last_updated": "2026-04-09"
+    },
+    {
+      "title": "Progressive Insurance Bill Pay",
+      "url": "/progressive-bill-pay/",
+      "category": "insurance",
+      "keywords": [
+        "progressive bill pay",
+        "progressive pay online",
+        "progressive guest payment",
+        "progressive billing phone number"
+      ],
+      "last_updated": "2026-04-09"
+    }
+  ]
+}
